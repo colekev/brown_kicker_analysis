@@ -10,4 +10,4 @@ The method of analysis, tools, etc were left completely for me to decide.
 
 I choose to develop my own metric for field goal accuracy, adjusted field goal percentage, to measure historical kicker performances. I then used bayesian updating and the beta distribution, which works well with binary outcomes like make-miss, to forecast future kicker performances.
 
-You can view the project code in an R Notebook, or download the HTML file for viewing the code and visualizations in your brower.
+You can view the [project code in an R Notebook](https://github.com/colekev/brown_kicker_analysis/blob/master/browns_kicker_analysis.Rmd), or download the HTML file for viewing the code and visualizations in your brower.
