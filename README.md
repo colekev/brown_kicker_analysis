@@ -12,4 +12,4 @@ I choose to develop my own metric for field goal accuracy, adjusted field goal p
 
 You can view the [project code in an R Notebook](https://github.com/colekev/brown_kicker_analysis/blob/master/browns_kicker_analysis.Rmd), or [download the HTML file](https://github.com/colekev/brown_kicker_analysis/blob/master/browns_kicker_analysis.nb.html) for viewing the code and visualizations in your brower.
 
-A slide presentation prepared for coaches and front office is here.
+A slide presentation prepared for coaches and front office [is here](https://github.com/colekev/brown_kicker_analysis/blob/master/browns_kicker_analysis_slide_deck.pdf).
